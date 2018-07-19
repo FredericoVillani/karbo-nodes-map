@@ -1,6 +1,6 @@
-# Karbo nodes map
+# NBR nodes map
 
-Visualizes KRB nodes on the map.
+Visualizes NBR nodes on the map.
 
 ## How to run
 install and run freegeoip
